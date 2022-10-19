@@ -1,5 +1,6 @@
 # dotfiles  
-My dotfiles initialise document.  
+わい専用dotfiles。  
+シンボリックリンクよりは追記がいいかもしれん。  
 
 ### Linux
 ```sh
